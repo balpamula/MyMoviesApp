@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">My Movies</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="movie_director">Director</string>
+    <string name="movie_stars">Stars</string>
+    <string name="movie_year">Year</string>
+    <string name="movie_storyline">Storyline</string>
+
+    <string-array name="data_title">
+        <item>Gran Turismo</item>
+        <item>Ford v Ferrari</item>
+        <item>Black Panther</item>
+        <item>Shang-Chi and the Legend of the Ten Rings</item>
+        <item>Star Wars: Episode IX - The Rise of Skywalker</item>
+        <item>Zack Snyder\'s Justice League</item>
+        <item>Spider-Man: Across the Spider-Verse</item>
+        <item>The Batman</item>
+        <item>The Dark Knight Rises</item>
+        <item>The Wind Rises</item>
+    </string-array>
+
+    <string-array name="data_stars">
+        <item>David Harbour, Orlando Bloom, Archie Madekwe</item>
+        <item>Matt Damon, Christian Bale, Jon Bernthal</item>
+        <item>Chadwick Boseman, Michael B. Jordan, Lupita Nyong\'o</item>
+        <item>Simu Liu, Awkwafina, Tony Leung Chiu-wai</item>
+        <item>Daisy Ridley, John Boyega, Oscar Isaac</item>
+        <item>Henry Cavill, Ben Affleck, Gal Gadot</item>
+        <item>Shameik Moore, Hailee Steinfeld, Brian Tyree Henry</item>
+        <item>Robert Pattinson, Zoë Kravitz, Jeffrey Wright</item>
+        <item>Christian Bale, Tom Hardy, Anne Hathaway</item>
+        <item>Hideaki Anno, Hidetoshi Nishijima, Miori Takimoto</item>
+    </string-array>
+
+    <string-array name="data_director">
+        <item>Neill Blomkamp</item>
+        <item>James Mangold</item>
+        <item>Ryan Coogler</item>
+        <item>Destin Daniel Cretton</item>
+        <item>J.J. Abrams</item>
+        <item>Zack Snyder</item>
+        <item>Joaquim Dos Santos, Kemp Powers, Justin K. Thompson</item>
+        <item>Matt Reeves</item>
+        <item>Christopher Nolan</item>
+        <item>Hayao Miyazaki</item>
+    </string-array>
+
+    <string-array name="data_year">
+        <item>2023</item>
+        <item>2019</item>
+        <item>2018</item>
+        <item>2021</item>
+        <item>2019</item>
+        <item>2021</item>
+        <item>2023</item>
+        <item>2022</item>
+        <item>2012</item>
+        <item>2013</item>
+    </string-array>
+
+    <integer-array name="movie_image">
+        <item>@drawable/movie1</item>
+        <item>@drawable/movie2</item>
+        <item>@drawable/movie3</item>
+        <item>@drawable/movie4</item>
+        <item>@drawable/movie5</item>
+        <item>@drawable/movie6</item>
+        <item>@drawable/movie7</item>
+        <item>@drawable/movie8</item>
+        <item>@drawable/image13</item>
+        <item>@drawable/movie10</item>
+    </integer-array>
+
+    <string-array name="data_storyline">
+        <item>Jann is an avid gamer from Cardiff who spends his days playing Gran Turismo, refusing to succeed in the real world. Meanwhile, in Tokyo, Danny, a marketing manager for the Nissan automobile corporation, is running an advertising campaign and, together with the management of Gran Turismo, hatches a plan to launch a competition inviting gamers to try their luck in real racing cars. Needing help organizing an event, Danny turns to Jack, a former racing driver and incorrigible cynic. When fate brings Jann together with Danny and Jack, the gamer becomes the driver of a Nissan racing car, plunging headlong into the fight for a place in the sun in the competitive world of real racing.</item>
+        <item>As Enzo Ferrari\'s fast Rosso-Corsa racing cars dominate the mid-1960s motorsport world, the American car designer, Carroll Shelby, is forced to retire after winning the demanding 1959 \'24 Hours of Le Mans\' endurance race. But, before long, an unexpected proposition by the Vice President of Henry Ford\'s motor company, Lee Iacocca, will offer an opportunity to beat the Italians at their own game. Now, under those pressing circumstances, the British sports car driver and racing engineer, Ken Miles, reluctantly agrees to lend a hand and improve the firm\'s image, as Ford\'s race team has less than ninety days to rewrite history. As a result, the non-conformist duo comes up with the mighty Ford GT40 Mk I high-performance racing car. Can Shelby and Miles break Ferrari\'s streak?</item>
+        <item>After the events of Captain America: Civil War, Prince T\'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country\'s new king. However, T\'Challa soon finds that he is challenged for the throne from factions within his own country. When two foes conspire to destroy Wakanda, the hero known as Black Panther must team up with C.I.A. agent Everett K. Ross and members of the Dora Milaje, Wakandan special forces, to prevent Wakanda from being dragged into a world war.</item>
+        <item>Shang-Chi, the master of weaponry-based Kung Fu, is forced to confront his past after being drawn into the Ten Rings organization.</item>
+        <item>While the First Order continues to ravage the galaxy, Rey finalizes her training as a Jedi. But danger suddenly rises from the ashes as the evil Emperor Palpatine mysteriously returns from the dead. While working with Finn and Poe Dameron to fulfill a new mission, Rey will not only face Kylo Ren once more, but she will also finally discover the truth about her parents as well as a deadly secret that could determine her future and the fate of the ultimate final showdown that is to come.</item>
+        <item>Determined to ensure Superman\'s ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions. The task proves more difficult than Bruce imagined, as each of the recruits must face the demons of their own pasts to transcend that which has held them back, allowing them to come together, finally forming an unprecedented league of heroes. Now united, Batman, Wonder Woman, Aquaman, Cyborg and The Flash may be too late to save the planet from Steppenwolf, DeSaad and Darkseid and their dreadful intentions.</item>
+        <item>Miles Morales returns for the next chapter of the Oscar®-winning Spider-Verse saga, an epic adventure that will transport Brooklyn\'s full-time, friendly neighborhood Spider-Man across the Multiverse to join forces with Gwen Stacy and a new team of Spider-People to face off with a villain more powerful than anything they have ever encountered.</item>
+        <item>Two years of nights have turned Bruce Wayne into a nocturnal animal. But as he continues to find his way as Gotham\'s dark knight Bruce is forced into a game of cat and mouse with his biggest threat so far, a manic killer known as "The Riddler" who is filled with rage and determined to expose the corrupt system whilst picking off all of Gotham\'s key political figures. Working with both established and new allies, Bruce must track down the killer and see him brought to justice, while investigating his father\'s true legacy and questioning the effect that he has had on Gotham so far as "The Batman."</item>
+        <item>Despite his tarnished reputation after the events of The Dark Knight (2008), in which he took the rap for Dent\'s crimes, Batman feels compelled to intervene to assist the city and its Police force, which is struggling to cope with Bane\'s plans to destroy the city.</item>
+        <item>Jiro dreams of flying and designing beautiful airplanes, inspired by the famous Italian aeronautical designer Caproni. Nearsighted from a young age and unable to be a pilot, Jiro joins a major Japanese engineering company in 1927 and becomes one of the world\'s most innovative and accomplished airplane designers. The film chronicles much of his life, depicting key historical events, including the Great Kanto Earthquake of 1923, the Great Depression, the tuberculosis epidemic and Japan\'s plunge into war. Jiro meets and falls in love with Nahoko, and grows and cherishes his friendship with his colleague Honjo.</item>
+    </string-array>
+
+    <string name="about">About</string>
+    <string name="nama">Iqbal Pamula Ba\'iq</string>
+    <string name="email">balpamula@gmail.com</string>
+    <string name="share">Bagikan</string>
+</resources>
